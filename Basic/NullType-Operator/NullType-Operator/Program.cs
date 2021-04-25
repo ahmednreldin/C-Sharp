@@ -53,8 +53,6 @@ namespace NullType_Operator
 
             Console.WriteLine("Avaliable ticket using ?? {0}", avaliableTickt);
 
-
-
         }
     }
 }

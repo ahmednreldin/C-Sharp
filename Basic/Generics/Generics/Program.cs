@@ -26,3 +26,6 @@ namespace Generics
         }
     }
 }
+
+// you can make class Generic
+class Numbers<T> { };

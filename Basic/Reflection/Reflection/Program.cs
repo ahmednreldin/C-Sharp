@@ -5,7 +5,6 @@ Type => get metaData
 
 Reflection e.g PropertyInfo[] ,MethodInfo[]
 ex of reflection => Property GU in Windows Form
- 
 */
 
 namespace Reflection
